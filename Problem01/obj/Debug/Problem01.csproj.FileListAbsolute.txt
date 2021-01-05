@@ -1,0 +1,12 @@
+E:\.NET Programming\Assignments\GoncalvesMarissaAssignment06\Problem01\Problem01\bin\Debug\WorldIncome_DB.mdf
+E:\.NET Programming\Assignments\GoncalvesMarissaAssignment06\Problem01\Problem01\bin\Debug\WorldIncome_DB_log.ldf
+E:\.NET Programming\Assignments\GoncalvesMarissaAssignment06\Problem01\Problem01\bin\Debug\Problem01.exe.config
+E:\.NET Programming\Assignments\GoncalvesMarissaAssignment06\Problem01\Problem01\bin\Debug\Problem01.exe
+E:\.NET Programming\Assignments\GoncalvesMarissaAssignment06\Problem01\Problem01\bin\Debug\Problem01.pdb
+E:\.NET Programming\Assignments\GoncalvesMarissaAssignment06\Problem01\Problem01\obj\Debug\Problem01.csprojAssemblyReference.cache
+E:\.NET Programming\Assignments\GoncalvesMarissaAssignment06\Problem01\Problem01\obj\Debug\Problem01.WorldGDPIncomeForm.resources
+E:\.NET Programming\Assignments\GoncalvesMarissaAssignment06\Problem01\Problem01\obj\Debug\Problem01.Properties.Resources.resources
+E:\.NET Programming\Assignments\GoncalvesMarissaAssignment06\Problem01\Problem01\obj\Debug\Problem01.csproj.GenerateResource.cache
+E:\.NET Programming\Assignments\GoncalvesMarissaAssignment06\Problem01\Problem01\obj\Debug\Problem01.csproj.CoreCompileInputs.cache
+E:\.NET Programming\Assignments\GoncalvesMarissaAssignment06\Problem01\Problem01\obj\Debug\Problem01.exe
+E:\.NET Programming\Assignments\GoncalvesMarissaAssignment06\Problem01\Problem01\obj\Debug\Problem01.pdb
